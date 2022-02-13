@@ -1,0 +1,28 @@
+{
+  "name": "wordle.js",
+  "version": "1.1.1",
+  "description": "A CLI Wordle clone written entirely in JavaScript",
+  "main": "wordle.js",
+  "bin": {
+    "wordle": "./wordle.js",
+    "wordle.js": "./wordle.js",
+    "wordle-js": "./wordle.js"
+  },
+  "scripts": {
+    "shortify": "node short.js"
+  },
+  "keywords": [
+    "JS",
+    "wordle",
+    "word",
+    "solve",
+    "puzzle",
+    "word-puzzle",
+    "JavaScript",
+    "Node",
+    "wordle-js",
+    "wordle.js"
+  ],
+  "author": "erdi",
+  "license": "ISC"
+}
