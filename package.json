@@ -1,6 +1,6 @@
 {
   "name": "wordle.js",
-  "version": "1.1.2-0",
+  "version": "1.1.3-0",
   "description": "A CLI Wordle clone written entirely in JavaScript",
   "main": "wordle.js",
   "bin": {
