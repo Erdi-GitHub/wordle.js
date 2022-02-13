@@ -4,8 +4,6 @@
 ### UNIX-like
 `sudo npm install wordle.js -g -S`
 ### Windows
-Run the following command in an administrator command-line (CMD or PowerShell):
-
-`npm install wordle.js -g -S`
+Download the latest release [version](https://github.com/Erdi-GitHub/wordle.js/releases) of the `wordle.js` file then run `node wordle.js`
 ## How To Play
 You can start the game by typing in `wordle` in your terminal
